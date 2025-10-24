@@ -22,3 +22,25 @@ done
 
 # exercise: implement another counting song (such as 12 days of Christmas) 
 # using loops and if statements.
+
+
+
+
+sd
+sdds
+daysds
+daysdsw
+eg
+rh
+theth
+thethth
+theththth
+thethfd
+fd
+fdfd
+fdfdfdfdfdf
+df
+dfdf
+dfdfdf
+dfdfdfd
+
